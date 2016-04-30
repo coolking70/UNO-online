@@ -3,14 +3,14 @@
     "version":"0.0.1",
     "dependencies":{
         "ejs":"*",
-        "express":"*",
+        "express":"3.x",
         "express-minify":"*",
         "express-partials":"*",
         "connect-mongo":"*",
         "socket.io-session":"*",
         "socket.io":"*",
         "mongoskin":"*",
-        "coffee-script":"*",
+        "coffee-script":"1.6",
         "continuation":"*",
         "moment":"*"
     }
